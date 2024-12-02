@@ -1,0 +1,75 @@
+#!/bin/bash
+
+source "$CONFIG_DIR/colors.sh"
+
+# This is a demo config to showcase some of the most important commands.
+# It is meant to be changed and configured, as it is intentionally kept sparse.
+# For a (much) more advanced configuration example see my dotfiles:
+# https://github.com/FelixKratz/dotfiles
+
+PLUGIN_DIR="$CONFIG_DIR/plugins"
+ITEM_DIR="$CONFIG_DIR/items"
+
+# -- Custom Events --
+sketchybar --add event input_method_changed TISInputSourceChangedNotification
+
+
+##### Bar Appearance #####
+# Configuring the general appearance of the bar.
+# These are only some of the options available. For all options see:
+# https://felixkratz.github.io/SketchyBar/config/bar
+# If you are looking for other colors, see the color picker:
+# https://felixkratz.github.io/SketchyBar/config/tricks#color-picker
+
+sketchybar --bar position=top      \
+                 margin=4 \
+                 y_offset=4      \
+                 corner_radius=6 \
+                 height=20          \
+                 blur_radius=25      \
+                 padding_right=2 \
+                 padding_left=3 \
+                 display=main \
+
+                 
+
+##### Changing Defaults #####
+# We now change some default values, which are applied to all further items.
+# For a full list of all available item properties see:
+# https://felixkratz.github.io/SketchyBar/config/items
+
+default=(
+  padding_left=4
+  padding_right=0
+  icon.font="SF Pro:Semibold:13.0"
+  label.font="SF Pro:Semibold:12.0"
+  icon.color=$WHITE
+  label.color=$WHITE
+  background.color=$ITEM_BG_COLOR
+  background.corner_radius=4
+  background.height=15
+  icon.padding_left=2
+  icon.padding_right=4
+  label.padding_left=6
+  label.padding_right=2
+)
+sketchybar --default "${default[@]}"
+
+# -- Left Side Items --
+# source $ITEM_DIR/logo.sh
+source $ITEM_DIR/spaces.sh
+# source $ITEM_DIR/front_app.sh
+
+# -- Rigth Side Of Notch Items --
+source $ITEM_DIR/media.sh
+
+# -- Right Side Items --
+source $ITEM_DIR/calendar.sh
+source $ITEM_DIR/volume.sh
+source $ITEM_DIR/battery.sh
+source $ITEM_DIR/vpn.sh
+# source $ITEM_DIR/lang.sh
+source $ITEM_DIR/cpu.sh
+
+##### Force all scripts to run the first time (never do this in a script) #####
+sketchybar --update
