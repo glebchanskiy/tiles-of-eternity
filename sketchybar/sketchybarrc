@@ -22,12 +22,12 @@ sketchybar --add event input_method_changed TISInputSourceChangedNotification
 # https://felixkratz.github.io/SketchyBar/config/tricks#color-picker
 
 sketchybar --bar position=top      \
-                 margin=4 \
-                 y_offset=4      \
+                 margin=1 \
+                 y_offset=1      \
                  corner_radius=6 \
-                 height=20          \
+                 height=24          \
                  blur_radius=25      \
-                 padding_right=2 \
+                 padding_right=3 \
                  padding_left=3 \
                  display=main \
 
@@ -47,7 +47,7 @@ default=(
   label.color=$WHITE
   background.color=$ITEM_BG_COLOR
   background.corner_radius=4
-  background.height=15
+  background.height=18
   icon.padding_left=2
   icon.padding_right=4
   label.padding_left=6
@@ -64,10 +64,12 @@ source $ITEM_DIR/spaces.sh
 source $ITEM_DIR/media.sh
 
 # -- Right Side Items --
-source $ITEM_DIR/calendar.sh
+
+source $ITEM_DIR/time.sh
 source $ITEM_DIR/volume.sh
 source $ITEM_DIR/battery.sh
 source $ITEM_DIR/vpn.sh
+source $ITEM_DIR/netstat.lua
 # source $ITEM_DIR/lang.sh
 source $ITEM_DIR/cpu.sh
 

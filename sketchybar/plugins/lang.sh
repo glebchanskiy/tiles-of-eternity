@@ -6,10 +6,10 @@
 INPUT_SOURCE=$(defaults read ~/Library/Preferences/com.apple.HIToolbox.plist AppleSelectedInputSources | grep '"KeyboardLayout Name"' | grep -o '[a-zA-Z]*' | sed -n '3p')
 
 case "$INPUT_SOURCE" in
-    "ABC")
+    "U")
         LABEL="en"
         ;;
-    "Russion")
+    "Russian")
         LABEL="ru"
         ;;
     *)

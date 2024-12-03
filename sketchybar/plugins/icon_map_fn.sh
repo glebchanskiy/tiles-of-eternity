@@ -320,7 +320,7 @@ function icon_map() {
   "OBS")
     icon_result=":obsstudio:"
     ;;
-  "Firefox Developer Edition" | "Firefox Nightly")
+  "Firefox Developer Edition" | "Firefox Nightly" | "Zen Browser")
     icon_result=":firefox_developer_edition:"
     ;;
   "Alfred")
