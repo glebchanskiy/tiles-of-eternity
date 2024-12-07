@@ -7,6 +7,7 @@ do
   sketchybar --add space space.$sid left                                 \
              --set space.$sid space=$sid                                 \
                               label.font="sketchybar-app-font:Regular:12.0" \
+                              label.padding_left=4                     \
                               label.padding_right=10                     \
                               icon.padding_right=4                     \
                               icon.padding_left=0                     \

@@ -320,7 +320,7 @@ function icon_map() {
   "OBS")
     icon_result=":obsstudio:"
     ;;
-  "Firefox Developer Edition" | "Firefox Nightly" | "Zen Browser")
+  "Firefox Developer Edition" | "Firefox Nightly")
     icon_result=":firefox_developer_edition:"
     ;;
   "Alfred")
@@ -426,7 +426,10 @@ function icon_map() {
     icon_result=":whats_app:"
     ;;
   "Yandex Music" | "YandexMusic" | "Яндекс Музыка")
-    icon_result=":music:"
+    icon_result=":yandex_music:"
+    ;;
+  "Zen Browser")
+    icon_result=":zen_browser:"
     ;;
   *)
     icon_result=":default:"
