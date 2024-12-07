@@ -68,6 +68,7 @@ source $ITEM_DIR/calendar.sh
 source $ITEM_DIR/volume.sh
 source $ITEM_DIR/battery.sh
 source $ITEM_DIR/vpn.sh
+source $ITEM_DIR/network.sh
 # source $ITEM_DIR/lang.sh
 source $ITEM_DIR/cpu.sh
 
