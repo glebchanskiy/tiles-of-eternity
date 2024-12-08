@@ -7,6 +7,9 @@ INTERFACES=$(ifconfig -l | tr ' ' '\n' | grep -v '^lo')
 TOTAL_DOWN=0
 TOTAL_UP=0
 
+MB_NAME="mb"
+KB_NAME="kb"
+
 # Цикл по каждому интерфейсу
 for INTERFACE in $INTERFACES; do
     # Получение скорости трафика для текущего интерфейса
@@ -25,16 +28,16 @@ done
 
 # Форматирование входящих данных
 if [ "$TOTAL_DOWN" -gt 999 ]; then
-    DOWN_FORMAT=$(echo "$TOTAL_DOWN" | awk '{ printf "%.0f MBps", $1 / 1000 }')
+    DOWN_FORMAT=$(echo "$TOTAL_DOWN" | awk -v MB_NAME="$MB_NAME" '{ printf "%.0f %s", $1 / 1000, MB_NAME }')
 else
-    DOWN_FORMAT=$(echo "$TOTAL_DOWN" | awk '{ printf "%.0f KBps", $1 }')
+    DOWN_FORMAT=$(echo "$TOTAL_DOWN" | awk -v KB_NAME="$KB_NAME" '{ printf "%.0f %s", $1, KB_NAME }')
 fi
 
 # Форматирование исходящих данных
 if [ "$TOTAL_UP" -gt 999 ]; then
-    UP_FORMAT=$(echo "$TOTAL_UP" | awk '{ printf "%.0f MBps", $1 / 1000 }')
+    UP_FORMAT=$(echo "$TOTAL_UP" | awk -v MB_NAME="$MB_NAME" '{ printf "%.0f %s", $1 / 1000, MB_NAME }')
 else
-    UP_FORMAT=$(echo "$TOTAL_UP" | awk '{ printf "%.0f KBps", $1 }')
+    UP_FORMAT=$(echo "$TOTAL_UP" | awk -v KB_NAME="$KB_NAME" '{ printf "%.0f %s", $1, KB_NAME }')
 fi
 
 # Передача данных в SketchyBar
