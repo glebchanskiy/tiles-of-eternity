@@ -25,6 +25,7 @@ local function update_vpn_status()
     local wireguard_vpn = io.popen("scutil --nc list | grep -E 'Connected.*glebchanskiy_wb'"):read("*a")
     local tunnelbear_vpn = io.popen("scutil --nc list | grep -E 'Connected.*TunnelBear'"):read("*a")
 
+    print(tunnelbear_vpn)
     local is_vpn_active = false
     local current_drawing = vpn:query().drawing
     
