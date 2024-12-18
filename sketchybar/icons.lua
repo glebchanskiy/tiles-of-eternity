@@ -20,6 +20,13 @@ local icons = {
       _10="􀊡",
       _0="􀊣",
     },
+    headphone_volume = {
+      _100="􀑈",
+      _0="􂬂",
+    },
+    usb_volume = {
+      _0="􁏎"
+    },
     battery = {
       _100 = "􀛨",
       _75 = "􀺸",

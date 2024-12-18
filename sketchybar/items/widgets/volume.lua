@@ -79,13 +79,28 @@ local function get_audio_device_info()
 end
 
 
-local function get_volume_icon(device_type, device_name)
-  local icon = "􀊩" 
-
+local function get_volume_icon(volume, device_type, device_name)
+  icon = ""
   if device_type == "USB" then
-    icon = "􁏎" 
+    icon = icons.usb_volume._0 
   elseif device_type == "Bluetooth" then
-    icon = "􀑈"
+    if volume > 0 then
+      icon = icons.headphone_volume._100
+    else
+      icon = icons.headphone_volume._0
+    end
+  else
+    if volume > 60 then
+      icon = icons.volume._100
+    elseif volume > 30 then
+      icon = icons.volume._66
+    elseif volume > 10 then
+      icon = icons.volume._33
+    elseif volume > 0 then
+      icon = icons.volume._10
+    else
+      icon = icons.volume._0
+    end
   end
 
   return icon
@@ -128,19 +143,9 @@ volume_percent:subscribe("volume_change", function(env)
 
   local device_info = get_audio_device_info()
 
-  local icon = get_volume_icon(device_info.type, device_info.name)
+  local icon = get_volume_icon(volume, device_info.type, device_info.name)
   local label = get_volume_label(volume, device_info.type, device_info.name)
 
-  if volume > 60 then
-    icon = icons.volume._100
-  elseif volume > 30 then
-    icon = icons.volume._66
-  elseif volume > 10 then
-    icon = icons.volume._33
-  elseif volume > 0 then
-    icon = icons.volume._10
-    label=""
-  end
 
 
   volume_icon:set({ label = icon })
