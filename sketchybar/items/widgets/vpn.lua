@@ -89,4 +89,6 @@ local function update_vpn_status()
     end
 end
 
+update_vpn_status()
+
 vpn:subscribe("routine", update_vpn_status)

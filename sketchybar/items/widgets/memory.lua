@@ -2,7 +2,7 @@ local icons = require("icons")
 local colors = require("colors")
 local settings = require("settings")
 
-local cpu = sbar.add("item", "widgets.memory",{
+local cpu = sbar.add("item", "widgets.cpu",{
   position = "right",
   background = {
     height = 22,
@@ -10,9 +10,9 @@ local cpu = sbar.add("item", "widgets.memory",{
     border_color = { alpha = 0 },
     drawing = true,
   },
-  icon = { string = icons.cpu },
+  icon = { string = icons.memory },
   label = {
-    string = "0%",
+    string = "0GB",
     font = {
       family = settings.font.numbers,
       style = settings.font.style_map["Bold"],
@@ -24,18 +24,18 @@ local cpu = sbar.add("item", "widgets.memory",{
 })
 
 cpu:subscribe("system_stats", function(env)
-  local load = tonumber(env.CPU_USAGE)
+  local load = tonumber(env.RAM_USED)
   cpu:set({
-    label = env.CPU_USAGE,
+    label = env.RAM_USED,
   })
 end)
 -- Background around the cpu item
-sbar.add("bracket", "widgets.memory.bracket", { cpu.name }, {
+sbar.add("bracket", "widgets.cpu.bracket", { cpu.name }, {
   background = { color = colors.bg1 }
 })
 
 -- Background around the cpu item
-sbar.add("item", "widgets.memory.padding", {
+sbar.add("item", "widgets.cpu.padding", {
   position = "right",
   width = settings.group_paddings
 })
