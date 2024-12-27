@@ -2,6 +2,11 @@ local icons = require("icons")
 local colors = require("colors")
 local settings = require("settings")
 
+
+-- Execute the event provider binary which provides the event "cpu_update" for
+-- the cpu load data, which is fired every 2.0 seconds.
+sbar.exec("killall cpu_load >/dev/null; $CONFIG_DIR/helpers/event_providers/cpu_load/bin/cpu_load cpu_update 2.0")
+
 local cpu = sbar.add("item", "widgets.memory",{
   position = "right",
   background = {
@@ -23,10 +28,10 @@ local cpu = sbar.add("item", "widgets.memory",{
   padding_right = settings.paddings + 6
 })
 
-cpu:subscribe("system_stats", function(env)
-  local load = tonumber(env.CPU_USAGE)
+cpu:subscribe("cpu_update", function(env)
+  local load = tonumber(env.total_load)
   cpu:set({
-    label = env.CPU_USAGE,
+    label = env.total_load .. "%",
   })
 end)
 -- Background around the cpu item
