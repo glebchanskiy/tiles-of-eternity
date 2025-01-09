@@ -1,7 +1,5 @@
 -- Require the sketchybar module
 sbar = require("sketchybar")
-screenInfo = require("screen_info")
-
 
 sbar.begin_config()
 require("bar")

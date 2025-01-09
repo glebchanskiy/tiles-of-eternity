@@ -172,8 +172,8 @@ end
 
 wifi_up:subscribe("system_stats", function(env)
 
-  local upload = convertToMBOrKB(env.NETWORK_TX_en0)
-  local download = convertToMBOrKB(env.NETWORK_RX_en0)
+  local upload = convertToMBOrKB(env.NETWORK_TX)
+  local download = convertToMBOrKB(env.NETWORK_RX)
 
   local up_color = (upload == "0KB/s") and colors.grey or colors.red
   local down_color = (download== "0KB/s") and colors.grey or colors.blue

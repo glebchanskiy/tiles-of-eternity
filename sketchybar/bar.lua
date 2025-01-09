@@ -6,10 +6,12 @@ local settings = require("settings")
 
 
 sbar.bar({
-	height = 20,
+	height = 40,
 	notch_display_height = 40,
+	display = "main",
 	blur_radius = 25,
 	padding_right = 10,
 	padding_left = 10,
-	y_offset = -1
+	y_offset = -1,
+	shadow = true
 })
