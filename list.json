@@ -1,0 +1,2592 @@
+[
+  {
+    "title": "86",
+    "title_ru": "Восемьдесят шесть",
+    "score": 10,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "86 Part 2",
+    "title_ru": "Восемьдесят шесть. Часть 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Shingeki no Kyojin",
+    "title_ru": "Атака титанов",
+    "score": 9,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Shingeki no Kyojin OVA",
+    "title_ru": "Атака титанов OVA",
+    "score": 8,
+    "status": "completed",
+    "eps": 3
+  },
+  {
+    "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+    "title_ru": "Атака титанов: Выбор без сожалений",
+    "score": 8,
+    "status": "completed",
+    "eps": 2
+  },
+  {
+    "title": "Shingeki no Kyojin Season 2",
+    "title_ru": "Атака титанов 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Shingeki no Kyojin: Lost Girls",
+    "title_ru": "Атака титанов: Потерянные девушки",
+    "score": 9,
+    "status": "completed",
+    "eps": 3
+  },
+  {
+    "title": "Shingeki no Kyojin Season 3",
+    "title_ru": "Атака титанов 3",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Shingeki no Kyojin Season 3 Specials",
+    "title_ru": "Атака титанов 3: Спецвыпуски",
+    "score": 8,
+    "status": "completed",
+    "eps": 7
+  },
+  {
+    "title": "Shingeki no Kyojin: The Final Season",
+    "title_ru": "Атака титанов: Финал",
+    "score": 9,
+    "status": "completed",
+    "eps": 16
+  },
+  {
+    "title": "Shingeki no Kyojin Season 3 Part 2",
+    "title_ru": "Атака титанов 3. Часть 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 10
+  },
+  {
+    "title": "Shingeki no Kyojin: The Final Season Part 2",
+    "title_ru": "Атака титанов: Финал. Часть 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "title_ru": "Этот замечательный мир!",
+    "score": 9,
+    "status": "completed",
+    "eps": 10
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "title_ru": "Этот замечательный мир! 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 10
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+    "title_ru": "Этот замечательный мир! Багровая легенда",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "title_ru": "Хроники Акаши — худшего магического преподавателя",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Shokugeki no Souma",
+    "title_ru": "Повар-боец Сома",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Shokugeki no Souma: Ni no Sara",
+    "title_ru": "Повар-боец Сома: Второе блюдо",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Shokugeki no Souma: San no Sara",
+    "title_ru": "Повар-боец Сома: Третье блюдо",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+    "title_ru": "Повар-боец Сома: Третье блюдо — Часть II",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+    "title_ru": "Как и ожидалось, моя школьная романтическая жизнь не удалась",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+    "title_ru": "Как и ожидалось, моя школьная романтическая жизнь не удалась 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "title_ru": "Может, я встречу тебя в подземелье?",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "title_ru": "Может, я встречу тебя в подземелье? 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+    "title_ru": "Может, я встречу тебя в подземелье? 3",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Sword Art Online: Extra Edition",
+    "title_ru": "Мастера Меча Онлайн: Дополнительное издание",
+    "score": 7,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Sword Art Online",
+    "title_ru": "Мастера Меча Онлайн",
+    "score": 9,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Sword Art Online II",
+    "title_ru": "Мастера Меча Онлайн II",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Sword Art Online: Alicization",
+    "title_ru": "Мастера Меча Онлайн: Алисизация",
+    "score": 9,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Sword Art Online Movie: Ordinal Scale",
+    "title_ru": "Мастера Меча Онлайн: Порядковый ранг",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Sword Art Online: Alicization - War of Underworld",
+    "title_ru": "Мастера Меча Онлайн: Алисизация — Война в Подмирье",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Sword Art Online: Alicization - War of Underworld Reflection",
+    "title_ru": "Мастера Меча Онлайн: Алисизация — Война в Подмирье. Отражение",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+    "title_ru": "Мастера Меча Онлайн: Алисизация — Война в Подмирье 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "One Piece",
+    "title_ru": "Ван-Пис",
+    "score": 10,
+    "status": "watching",
+    "eps": 1022
+  },
+  {
+    "title": "One Punch Man: Road to Hero",
+    "title_ru": "Ванпанчмен: Путь к становлению героем",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "One Punch Man",
+    "title_ru": "Ванпанчмен",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "One Punch Man 2nd Season",
+    "title_ru": "Ванпанчмен 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Evangelion Movie 1: Jo",
+    "title_ru": "Евангелион 1.11: Ты (не) один",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Shinseiki Evangelion",
+    "title_ru": "Евангелион нового поколения",
+    "score": 10,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
+    "title_ru": "Евангелион нового поколения: Смерть и перерождение",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+    "title_ru": "Евангелион нового поколения: Конец Евангелиона",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Evangelion Movie 2: Ha",
+    "title_ru": "Евангелион 2.22: Ты (не) пройдёшь",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Evangelion Movie 3: Q",
+    "title_ru": "Евангелион 3.33: Ты (не) исправишь",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Shin Evangelion Movie:||",
+    "title_ru": "Евангелион 3.0+1.01: Как-то раз",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Sakamoto desu ga?",
+    "title_ru": "Я — Сакамото, а что?",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Ijiranaide, Nagatoro-san",
+    "title_ru": "Не издевайся, Нагаторо",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+    "title_ru": "Я побрился. Затем привёл домой старшеклассницу",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Code Geass: Hangyaku no Lelouch",
+    "title_ru": "Код Гиас: Восставший Лелуш",
+    "score": 10,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Code Geass: Hangyaku no Lelouch R2",
+    "title_ru": "Код Гиас: Восставший Лелуш 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Heion Sedai no Idaten-tachi",
+    "title_ru": "Божества Идатэн в мирном поколении",
+    "score": 9,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Vanitas no Karte",
+    "title_ru": "Мемуары Ванитаса",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Goblin Slayer",
+    "title_ru": "Убийца гоблинов",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Goblin Slayer: Goblin's Crown",
+    "title_ru": "Убийца гоблинов: Корона гоблина",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Goblin Slayer II",
+    "title_ru": "Убийца гоблинов 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Akame ga Kill!",
+    "title_ru": "Убийца Акамэ!",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Kimetsu no Yaiba",
+    "title_ru": "Клинок, рассекающий демонов",
+    "score": 9,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+    "title_ru": "Клинок, рассекающий демонов: Бесконечный поезд. Фильм",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+    "title_ru": "Клинок, рассекающий демонов: Бесконечный поезд",
+    "score": 9,
+    "status": "completed",
+    "eps": 7
+  },
+  {
+    "title": "Quanzhi Gaoshou",
+    "title_ru": "Аватар короля",
+    "score": 6,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tokyo Ghoul",
+    "title_ru": "Токийский гуль",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tokyo Ghoul √A",
+    "title_ru": "Токийский гуль √A",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tokyo Ghoul:re",
+    "title_ru": "Токийский гуль: Перерождение",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tokyo Ghoul:re 2nd Season",
+    "title_ru": "Токийский гуль: Перерождение 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Zankyou no Terror",
+    "title_ru": "Эхо террора",
+    "score": 10,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Kaichou wa Maid-sama!",
+    "title_ru": "Президент студсовета — горничная!",
+    "score": 9,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "5-toubun no Hanayome",
+    "title_ru": "Пять невест",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "5-toubun no Hanayome ∬",
+    "title_ru": "Пять невест 2",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Dr. Stone",
+    "title_ru": "Доктор Стоун",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Dr. Stone: Stone Wars",
+    "title_ru": "Доктор Стоун: Каменные войны",
+    "score": 8,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Horimiya",
+    "title_ru": "Хоримия",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "title_ru": "О моём перерождении в слизь: Дневник слизи-попаданца",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken",
+    "title_ru": "О моём перерождении в слизь",
+    "score": 9,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki",
+    "title_ru": "О моём перерождении в слизь: Дневник Вельдоры",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 2nd Season",
+    "title_ru": "О моём перерождении в слизь 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Samurai Champloo",
+    "title_ru": "Самурай Чамплу",
+    "score": 9,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Koutetsujou no Kabaneri",
+    "title_ru": "Кабанэри железной крепости",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Hunter x Hunter (2011)",
+    "title_ru": "Охотник х Охотник (2011)",
+    "score": 10,
+    "status": "completed",
+    "eps": 148
+  },
+  {
+    "title": "New Game!",
+    "title_ru": "Новая игра!",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "New Game!!",
+    "title_ru": "Новая игра! 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Hai to Gensou no Grimgar",
+    "title_ru": "Гримгал пепла и иллюзий",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Himouto! Umaru-chan",
+    "title_ru": "Двуличная сестрёнка Умару!",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Maoyuu Maou Yuusha",
+    "title_ru": "Королева демонов и Герой",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Guilty Crown",
+    "title_ru": "Корона грешника",
+    "score": 8,
+    "status": "completed",
+    "eps": 22
+  },
+  {
+    "title": "Bokutachi no Remake",
+    "title_ru": "Ремейк нашей жизни",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Arifureta Shokugyou de Sekai Saikyou",
+    "title_ru": "Арифурэта: Сильнейший ремесленник в мире",
+    "score": 7,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "title_ru": "Re:Zero. Жизнь с нуля в альтернативном мире",
+    "score": 8,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "title_ru": "Re:Zero. Жизнь с нуля в альтернативном мире 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Boku no Hero Academia",
+    "title_ru": "Моя геройская академия",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Boku no Hero Academia 3rd Season",
+    "title_ru": "Моя геройская академия 3",
+    "score": 9,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Death Note",
+    "title_ru": "Тетрадь смерти",
+    "score": 9,
+    "status": "completed",
+    "eps": 37
+  },
+  {
+    "title": "Naruto",
+    "title_ru": "Наруто",
+    "score": 8,
+    "status": "completed",
+    "eps": 220
+  },
+  {
+    "title": "Kimi no Na wa.",
+    "title_ru": "Твоё имя",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "No Game No Life",
+    "title_ru": "Нет игры — нет жизни",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Naruto: Shippuuden",
+    "title_ru": "Наруто: Ураганные хроники",
+    "score": 9,
+    "status": "completed",
+    "eps": 500
+  },
+  {
+    "title": "Noragami",
+    "title_ru": "Бездомный бог",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Koe no Katachi",
+    "title_ru": "Форма голоса",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Shigatsu wa Kimi no Uso",
+    "title_ru": "Твоя апрельская ложь",
+    "score": 9,
+    "status": "completed",
+    "eps": 22
+  },
+  {
+    "title": "Nanatsu no Taizai",
+    "title_ru": "Семь смертных грехов",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Haikyuu!!",
+    "title_ru": "Волейбол!!",
+    "score": 8,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "title_ru": "Магическая битва",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Yakusoku no Neverland",
+    "title_ru": "Обещанный Неверленд",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kiseijuu: Sei no Kakuritsu",
+    "title_ru": "Паразит: Учение о жизни",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Cowboy Bebop",
+    "title_ru": "Ковбой Бибоп",
+    "score": 9,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Tengen Toppa Gurren Lagann",
+    "title_ru": "Гуррен-Лаганн, пронзающий небеса",
+    "score": 10,
+    "status": "completed",
+    "eps": 27
+  },
+  {
+    "title": "Elfen Lied",
+    "title_ru": "Эльфийская песнь",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Charlotte",
+    "title_ru": "Шарлотта",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Darling in the FranXX",
+    "title_ru": "Милый во Франксе",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "title_ru": "Госпожа Кагуя: в любви как на войне",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken (TV)",
+    "title_ru": "Невероятное приключение ДжоДжо",
+    "score": 10,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Hataraku Maou-sama!",
+    "title_ru": "Повелитель тьмы на подработке!",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Fate/Zero",
+    "title_ru": "Судьба/Начало",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Overlord",
+    "title_ru": "Повелитель",
+    "score": 10,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Haikyuu!! Second Season",
+    "title_ru": "Волейбол!! 2",
+    "score": 7,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Kakegurui",
+    "title_ru": "Безумный азарт",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Owari no Seraph",
+    "title_ru": "Последний Серафим",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Sakura-sou no Pet na Kanojo",
+    "title_ru": "Кошечка из Сакурасо",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Bungou Stray Dogs",
+    "title_ru": "Великий из бродячих псов",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kyoukai no Kanata",
+    "title_ru": "По ту сторону границы",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Vinland Saga",
+    "title_ru": "Сага о Винланде",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+    "title_ru": "Госпожа Кагуя: в любви как на войне 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Dororo",
+    "title_ru": "Дороро",
+    "score": 9,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+    "title_ru": "Невероятное приключение ДжоДжо: Рыцари звёздной пыли",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Mahouka Koukou no Rettousei",
+    "title_ru": "Непутёвый ученик в школе магии",
+    "score": 7,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "title_ru": "Судьба/Ночь схватки: Бесконечный мир клинков",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "ReLIFE",
+    "title_ru": "Повторная жизнь",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Golden Time",
+    "title_ru": "Золотая пора",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen",
+    "title_ru": "Невероятное приключение ДжоДжо: Рыцари звёздной пыли 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "title_ru": "Невероятное приключение ДжоДжо: Несокрушимый алмаз",
+    "score": 9,
+    "status": "completed",
+    "eps": 39
+  },
+  {
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "title_ru": "Реинкарнация безработного: История о приключениях в другом мире",
+    "score": 10,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "title_ru": "Добро пожаловать в класс превосходства",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "High School DxD New",
+    "title_ru": "Старшая школа DxD New",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Overlord II",
+    "title_ru": "Повелитель 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Rakudai Kishi no Cavalry",
+    "title_ru": "Доблесть рыцаря-неудачника",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    "title_ru": "Невероятное приключение ДжоДжо: Золотой ветер",
+    "score": 9,
+    "status": "completed",
+    "eps": 39
+  },
+  {
+    "title": "Ao Haru Ride",
+    "title_ru": "Неудержимая юность",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Yakusoku no Neverland 2nd Season",
+    "title_ru": "Обещанный Неверленд 2",
+    "score": 7,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Wotaku ni Koi wa Muzukashii",
+    "title_ru": "Так сложно любить отаку",
+    "score": 9,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "No Game No Life: Zero",
+    "title_ru": "Нет игры — нет жизни: Начало",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Ookami to Koushinryou",
+    "title_ru": "Волчица и пряности",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Haikyuu!! To the Top",
+    "title_ru": "Волейбол!! К вершине",
+    "score": 7,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Akatsuki no Yona",
+    "title_ru": "Йона на заре",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Kanojo, Okarishimasu",
+    "title_ru": "Девушка на час",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kami no Tou",
+    "title_ru": "Башня Бога",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Hotarubi no Mori e",
+    "title_ru": "В лес, где мерцают светлячки",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Masamune-kun no Revenge",
+    "title_ru": "Месть Масамунэ!",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Overlord III",
+    "title_ru": "Повелитель 3",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "High School DxD BorN",
+    "title_ru": "Старшая школа DxD: Рождение",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+    "title_ru": "Врата: Там бьются наши воины",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kimi no Suizou wo Tabetai",
+    "title_ru": "Я хочу съесть твою поджелудочную",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+    "title_ru": "Скучный мир, где не существует самой идеи похабных шуток",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Yamada-kun to 7-nin no Majo",
+    "title_ru": "Ямада-кун и семь ведьм",
+    "score": 6,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Owari no Seraph: Nagoya Kessen-hen",
+    "title_ru": "Последний Серафим: Битва в Нагое",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Hellsing",
+    "title_ru": "Хеллсинг: Война с нечистью",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+    "title_ru": "Re:Zero. Жизнь с нуля в альтернативном мире 2. Часть 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "NHK ni Youkoso!",
+    "title_ru": "Добро пожаловать в NHK",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Grand Blue",
+    "title_ru": "Необъятный океан",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+    "title_ru": "Семь смертных грехов: Гнев богов",
+    "score": 7,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Haikyuu!! To the Top Part 2",
+    "title_ru": "Волейбол!! К вершине 2",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Blend S",
+    "title_ru": "Садистская смесь",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+    "title_ru": "Как и ожидалось, моя школьная романтическая жизнь не удалась 3",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Spy x Family",
+    "title_ru": "Семья шпиона",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Gamers!",
+    "title_ru": "Геймеры!",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Komi-san wa, Comyushou desu.",
+    "title_ru": "У Коми проблемы с общением",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Little Witch Academia (TV)",
+    "title_ru": "Академия ведьмочек",
+    "score": 7,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "title_ru": "Этот глупый свин не понимает мечту девочки-мечтательницы",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Tonikaku Kawaii",
+    "title_ru": "Унеси меня на Луну",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    "title_ru": "Реинкарнация безработного: История о приключениях в другом мире. Часть 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru",
+    "title_ru": "Эта фарфоровая кукла влюбилась",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Drifters",
+    "title_ru": "Скитальцы",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "The Last: Naruto the Movie",
+    "title_ru": "Наруто: Последний фильм",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",
+    "title_ru": "Врата: Там бьются наши воины — Огнедышащие драконы",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "title_ru": "О моём перерождении в слизь 2. Часть 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kenja no Mago",
+    "title_ru": "Внук мудреца",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Isekai wa Smartphone to Tomo ni.",
+    "title_ru": "В другом мире со смартфоном",
+    "score": 6,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Citrus",
+    "title_ru": "Цитрус",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kaifuku Jutsushi no Yarinaoshi",
+    "title_ru": "Маг-целитель: Новый старт",
+    "score": 6,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+    "title_ru": "Госпожа Кагуя: в любви как на войне 3",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "High School DxD Hero",
+    "title_ru": "Старшая школа DxD: Герой",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tanaka-kun wa Itsumo Kedaruge",
+    "title_ru": "Всегда вялый Танака-кун",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+    "title_ru": "Может, я встречу тебя в подземелье? Меч Оратории",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Ousama Ranking",
+    "title_ru": "Рейтинг короля",
+    "score": 9,
+    "status": "completed",
+    "eps": 23
+  },
+  {
+    "title": "Takt Op. Destiny",
+    "title_ru": "Такт. Опус Судьба",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Bakemono no Ko",
+    "title_ru": "Ученик чудовища",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Chainsaw Man",
+    "title_ru": "Человек-бензопила",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+    "title_ru": "Этот замечательный мир! OVA",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Saijaku Muhai no Bahamut",
+    "title_ru": "Хроники непобеждённого Бахамута",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Mieruko-chan",
+    "title_ru": "Девочка, которая видит это",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "title_ru": "Что ты будешь делать во время апокалипсиса? Будешь ли ты занят? Могу ли я спасти тебя?",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+    "title_ru": "Лучший в мире ассасин, переродившийся в другом мире как аристократ",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Fugou Keiji: Balance:Unlimited",
+    "title_ru": "Богатый детектив. Баланс: Неограничен",
+    "score": 8,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Busou Shoujo Machiavellianism",
+    "title_ru": "Тирания вооружённых девушек",
+    "score": 6,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Suisei no Gargantia",
+    "title_ru": "Гаргантия на просторах зелёной планеты",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Akudama Drive",
+    "title_ru": "Акудама Драйв",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "ReLIFE: Kanketsu-hen",
+    "title_ru": "Повторная жизнь: Заключительная глава",
+    "score": 9,
+    "status": "completed",
+    "eps": 4
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+    "title_ru": "Этот замечательный мир! 2 OVA",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Blue Period",
+    "title_ru": "Голубой период",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Paripi Koumei",
+    "title_ru": "Тусовщик Кунмин",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Komi-san wa, Comyushou desu. 2nd Season",
+    "title_ru": "У Коми проблемы с общением 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Highschool of the Dead",
+    "title_ru": "Школа мертвецов",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Boku no Hero Academia 2nd Season",
+    "title_ru": "Моя геройская академия 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "High School DxD",
+    "title_ru": "Старшая школа DxD",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Xian Wang de Richang Shenghuo",
+    "title_ru": "Повседневная жизнь бессмертного короля",
+    "score": 8,
+    "status": "completed",
+    "eps": 15
+  },
+  {
+    "title": "Golden Boy",
+    "title_ru": "Золотой парень",
+    "score": 9,
+    "status": "completed",
+    "eps": 6
+  },
+  {
+    "title": "Boku no Hero Academia 4th Season",
+    "title_ru": "Моя геройская академия 4",
+    "score": 8,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Boku no Hero Academia 5th Season",
+    "title_ru": "Моя геройская академия 5",
+    "score": 8,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "title_ru": "Этот глупый свин не понимает мечту девочки-зайки",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "title_ru": "Семь смертных грехов: Возрождение заповедей",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Tate no Yuusha no Nariagari",
+    "title_ru": "Восхождение героя щита",
+    "score": 8,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+    "title_ru": "Влюблённые учёные и научное доказательство любви 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+    "title_ru": "Влюблённые учёные и научное доказательство любви",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Toradora!",
+    "title_ru": "Торадора!",
+    "score": 9,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Bakemonogatari",
+    "title_ru": "Истории монстров",
+    "score": 10,
+    "status": "completed",
+    "eps": 15
+  },
+  {
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+    "title_ru": "Рыцарь-скелет вступает в параллельный мир",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Made in Abyss",
+    "title_ru": "Созданный в Бездне",
+    "score": 10,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Tonikaku Kawaii: Kaisou",
+    "title_ru": "Унеси меня на Луну: Воспоминания",
+    "score": 7,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Tonikaku Kawaii: SNS",
+    "title_ru": "Унеси меня на Луну OVA",
+    "score": 7,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "title_ru": "Клинок, рассекающий демонов: Квартал красных фонарей",
+    "score": 9,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Redline",
+    "title_ru": "Красная черта",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Shingeki! Kyojin Chuugakkou",
+    "title_ru": "Атака! Титаны средней школы",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Highschool of the Dead: Drifters of the Dead",
+    "title_ru": "Школа мертвецов: Мёртвые бродяги",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Sentouin, Haken shimasu!",
+    "title_ru": "Комбатанты будут высланы!",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken OVA",
+    "title_ru": "О моём перерождении в слизь OVA",
+    "score": 7,
+    "status": "completed",
+    "eps": 5
+  },
+  {
+    "title": "Kiznaiver",
+    "title_ru": "Кизнайвер",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Zero no Tsukaima",
+    "title_ru": "Подручный Луизы-Нулизы",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kizumonogatari I: Tekketsu-hen",
+    "title_ru": "Истории ран. Часть 1: Железная кровь",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Kizumonogatari II: Nekketsu-hen",
+    "title_ru": "Истории ран. Часть 2: Горячая кровь",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Yofukashi no Uta",
+    "title_ru": "Песнь ночных сов",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kizumonogatari III: Reiketsu-hen",
+    "title_ru": "Истории ран. Часть 3: Холодная кровь",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Nisemonogatari",
+    "title_ru": "Истории подделок",
+    "score": 9,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Nekomonogatari: Kuro",
+    "title_ru": "История кошки: Чёрная глава",
+    "score": 10,
+    "status": "completed",
+    "eps": 4
+  },
+  {
+    "title": "Katanagatari",
+    "title_ru": "Истории мечей",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Vivy: Fluorite Eye's Song",
+    "title_ru": "Виви: Песнь флюоритового глаза",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kill la Kill",
+    "title_ru": "Убей или умри",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Josee to Tora to Sakana-tachi",
+    "title_ru": "Жозе, тигр и рыба",
+    "score": 8,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Overlord IV",
+    "title_ru": "Повелитель 4",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Isekai Ojisan",
+    "title_ru": "Перерождение Дяди",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Isekai Yakkyoku",
+    "title_ru": "Фармацевт из параллельного мира",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+    "title_ru": "Созданный в Бездне: Солнце, вспыхнувшее в Золотом городе",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Lycoris Recoil",
+    "title_ru": "Ликорис Рикоил",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+    "title_ru": "Созданный в Бездне: Рассвет глубокой души",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Mairimashita! Iruma-kun",
+    "title_ru": "Добро пожаловать в ад, Ирума!",
+    "score": 8,
+    "status": "completed",
+    "eps": 23
+  },
+  {
+    "title": "Star Wars: Visions",
+    "title_ru": "Звёздные войны: Видения",
+    "score": 8,
+    "status": "completed",
+    "eps": 9
+  },
+  {
+    "title": "Cyberpunk: Edgerunners",
+    "title_ru": "Киберпанк: Бегущие по краю",
+    "score": 10,
+    "status": "completed",
+    "eps": 10
+  },
+  {
+    "title": "Bocchi the Rock!",
+    "title_ru": "Одинокий рокер!",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Sonny Boy",
+    "title_ru": "Сонни Бой",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Bakuman.",
+    "title_ru": "Бакуман",
+    "score": 10,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Boku no Hero Academia 6th Season",
+    "title_ru": "Моя геройская академия 6",
+    "score": 8,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "One Piece Film: Red",
+    "title_ru": "Ван-Пис: Красный",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Bakuman. 2nd Season",
+    "title_ru": "Бакуман 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Bakuman. 3rd Season",
+    "title_ru": "Бакуман 3",
+    "score": 10,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Re:Creators",
+    "title_ru": "Возрождающие",
+    "score": 10,
+    "status": "completed",
+    "eps": 22
+  },
+  {
+    "title": "Yuru Camp△",
+    "title_ru": "Лагерь на свежем воздухе",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "[Oshi no Ko]",
+    "title_ru": "Ребёнок идола",
+    "score": 10,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Spy x Family Part 2",
+    "title_ru": "Семья шпиона. Часть 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Chobits",
+    "title_ru": "Чобиты",
+    "score": 8,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Kidou Senshi Gundam: Suisei no Majo",
+    "title_ru": "Мобильный воин Гандам: Ведьма с Меркурия",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Fantasy Bishoujo Juniku Ojisan to",
+    "title_ru": "Фантастический мир с обращённым в красавицу мужчиной и…",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+    "title_ru": "Авантюристы, которые не верят в человечество, спасут мир",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kyokou Suiri",
+    "title_ru": "Ложные выводы",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Gekkan Shoujo Nozaki-kun",
+    "title_ru": "Ежемесячное сёдзё Нодзаки",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+    "title_ru": "Мобильный воин Гандам: Ведьма с Меркурия 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kidou Senshi Gundam: Suisei no Majo - Prologue",
+    "title_ru": "Мобильный воин Гандам: Ведьма с Меркурия — Пролог",
+    "score": 10,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+    "title_ru": "Руководство гениального принца по вызволению страны из долгов",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+    "title_ru": "Не люблю боль, поэтому собираюсь вложить всё в защиту",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
+    "title_ru": "Не люблю боль, поэтому собираюсь вложить всё в защиту 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "title_ru": "Реинкарнация безработного: История о приключениях в другом мире 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu",
+    "title_ru": "Реинкарнация безработного: История о приключениях в другом мире. Эрис — убийца гоблинов",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Yuru Camp△ Season 2",
+    "title_ru": "Лагерь на свежем воздухе 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+    "title_ru": "Последнее поле брани между тобой и мной, или Святая война сотворения мира",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+    "title_ru": "Власть книжного червя",
+    "score": 8,
+    "status": "completed",
+    "eps": 14
+  },
+  {
+    "title": "Log Horizon",
+    "title_ru": "Покорение горизонта",
+    "score": 9,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
+    "title_ru": "Власть книжного червя 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Birdie Wing: Golf Girls' Story",
+    "title_ru": "Птичье крыло: История гольфисток",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Sousou no Frieren",
+    "title_ru": "Провожающая в последний путь Фрирен",
+    "score": 9,
+    "status": "completed",
+    "eps": 28
+  },
+  {
+    "title": "Gokushufudou",
+    "title_ru": "Путь домохозяина",
+    "score": 8,
+    "status": "completed",
+    "eps": 5
+  },
+  {
+    "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+    "title_ru": "Убивая слизней триста лет, сама того не заметив, я достигла максимального уровня",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Majo no Tabitabi",
+    "title_ru": "Путешествие Элейны",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+    "title_ru": "Магическая революция перерождённой принцессы и гениальной юной леди",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+    "title_ru": "Ледяной парень и классная девушка-коллега",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "title_ru": "Ангел по соседству",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀",
+    "title_ru": "Перевоплотившийся король-герой, ставший самой сильной ученицей рыцаря",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tomo-chan wa Onnanoko!",
+    "title_ru": "Томо — девушка!",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Tondemo Skill de Isekai Hourou Meshi",
+    "title_ru": "Кулинарные скитания в параллельном мире",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Jigokuraku",
+    "title_ru": "Адский рай",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Yuru Camp△ Movie",
+    "title_ru": "Лагерь на свежем воздухе. Фильм",
+    "score": 9,
+    "status": "completed",
+    "eps": 1
+  },
+  {
+    "title": "Yamada-kun to Lv999 no Koi wo Suru",
+    "title_ru": "Моя любовь девятьсот девяносто девятого уровня к Ямаде",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Boku no Kokoro no Yabai Yatsu",
+    "title_ru": "Опасность в моём сердце",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Skip to Loafer",
+    "title_ru": "Долой безделье!",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tengoku Daimakyou",
+    "title_ru": "Иллюзия рая",
+    "score": 10,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "title_ru": "Клинок, рассекающий демонов: Деревня кузнецов",
+    "score": 10,
+    "status": "completed",
+    "eps": 11
+  },
+  {
+    "title": "Kemono Jihen",
+    "title_ru": "Инцидент Кэмоно",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Girls Band Cry",
+    "title_ru": "Плач девичьей группы",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Dungeon Meshi",
+    "title_ru": "Подземелье вкусностей",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Helck",
+    "title_ru": "Хельк",
+    "score": 7,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+    "title_ru": "Предсмертный список зомби",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "K-On!!",
+    "title_ru": "Кэйон!!",
+    "score": 10,
+    "status": "completed",
+    "eps": 26
+  },
+  {
+    "title": "Detroit Metal City",
+    "title_ru": "Детройт, город металла",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Lv1 Maou to One Room Yuusha",
+    "title_ru": "Однушка лорда демонов и героя",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Dekiru Neko wa Kyou mo Yuuutsu",
+    "title_ru": "Кот, мастер на все лапки, сегодня снова грустит",
+    "score": 9,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "title_ru": "Восхождение в тени!",
+    "score": 10,
+    "status": "completed",
+    "eps": 20
+  },
+  {
+    "title": "Kusuriya no Hitorigoto",
+    "title_ru": "Монолог фармацевта",
+    "score": 10,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+    "title_ru": "Бродяга Кэнсин (2023)",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Dead Mount Death Play",
+    "title_ru": "Смертельная игра мёртвой горы",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Hametsu no Oukoku",
+    "title_ru": "Королевство руин",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+    "title_ru": "Восхождение в тени! 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "K-On!",
+    "title_ru": "Кэйон!",
+    "score": 10,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+    "title_ru": "Рубеж Шангри-Ла: Любитель игрошлака бросает вызов топ-игре",
+    "score": 8,
+    "status": "completed",
+    "eps": 25
+  },
+  {
+    "title": "Jujutsu Kaisen 2nd Season",
+    "title_ru": "Магическая битва 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 23
+  },
+  {
+    "title": "Dead Mount Death Play Part 2",
+    "title_ru": "Смертельная игра мёртвой горы. Часть 2",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Black Clover",
+    "title_ru": "Чёрный клевер",
+    "score": 9,
+    "status": "completed",
+    "eps": 130
+  },
+  {
+    "title": "Ragna Crimson",
+    "title_ru": "Рагна Багровый",
+    "score": 9,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Bokura wa Minna Kawai-sou",
+    "title_ru": "Все мы живём в общежитии Кавай",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Ore dake Level Up na Ken",
+    "title_ru": "Поднятие уровня в одиночку",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Yoru no Kurage wa Oyogenai",
+    "title_ru": "Медуза не умеет плавать в ночи",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Yubisaki to Renren",
+    "title_ru": "Любовь с кончиков пальцев",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Unnamed Memory",
+    "title_ru": "Безымянная память",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Re:Monster",
+    "title_ru": "Перерождение: Монстр",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Dandadan",
+    "title_ru": "Дандадан",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tsue to Tsurugi no Wistoria",
+    "title_ru": "Меч и жезл Вистории",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Nozomanu Fushi no Boukensha",
+    "title_ru": "Нежеланно бессмертный авантюрист",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Isekai Shikkaku",
+    "title_ru": "Дисквалифицирован по жизни",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "title_ru": "Этот мир слишком несовершенен",
+    "score": 7,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Make Heroine ga Oosugiru!",
+    "title_ru": "Слишком много проигравших героинь!",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Saihate no Paladin",
+    "title_ru": "Далёкий паладин",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+    "title_ru": "Далёкий паладин 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "title_ru": "Я стану злодейкой, которая войдёт в историю",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Akuyaku Reijou Tensei Ojisan",
+    "title_ru": "Перерождение мужчины средних лет в дочь дворянина",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+    "title_ru": "Я женился на однокласснице, которую ненавидел",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+    "title_ru": "Поднятие уровня в одиночку 2: Восстаньте из тени",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kusuriya no Hitorigoto 2nd Season",
+    "title_ru": "Монолог фармацевта 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Kaijuu 8-gou",
+    "title_ru": "Кайдзю номер восемь",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Satsuriku no Tenshi",
+    "title_ru": "Ангел кровопролития",
+    "score": 8,
+    "status": "completed",
+    "eps": 16
+  },
+  {
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "title_ru": "Аля иногда кокетничает со мной по-русски",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Senpai ga Uzai Kouhai no Hanashi",
+    "title_ru": "Мой сэмпай раздражает!",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "title_ru": "О моём перерождении в слизь 3",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Spy x Family Season 2",
+    "title_ru": "Семья шпиона 2",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Wind Breaker",
+    "title_ru": "Ветролом",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Zenshuu.",
+    "title_ru": "Полное исследование",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kyuuketsuki Sugu Shinu 2",
+    "title_ru": "Этот вампир постоянно умирает 2",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Kyuuketsuki Sugu Shinu",
+    "title_ru": "Этот вампир постоянно умирает",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Mahoutsukai no Yome",
+    "title_ru": "Невеста чародея",
+    "score": 8,
+    "status": "completed",
+    "eps": 24
+  },
+  {
+    "title": "Maou 2099",
+    "title_ru": "Повелитель демонов 2099",
+    "score": 0,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Nige Jouzu no Wakagimi",
+    "title_ru": "Юный лорд — мастер побега",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Gintama",
+    "title_ru": "Гинтама",
+    "score": 0,
+    "status": "completed",
+    "eps": 201
+  },
+  {
+    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+    "title_ru": "Опасность в моём сердце 2",
+    "score": 0,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Net-juu no Susume",
+    "title_ru": "Полноценная жизнь онлайн",
+    "score": 8,
+    "status": "completed",
+    "eps": 10
+  },
+  {
+    "title": "Undead Girl Murder Farce",
+    "title_ru": "Фарс из убийства девушки-нежити",
+    "score": 0,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kidou Senshi Gundam: GQuuuuuuX",
+    "title_ru": "Мобильный воин Гандам: GQuuuuuuX",
+    "score": 9,
+    "status": "watching",
+    "eps": 6
+  },
+  {
+    "title": "Mashle",
+    "title_ru": "Магия и мускулы",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Mizu Zokusei no Mahoutsukai",
+    "title_ru": "Маг воды",
+    "score": 8,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+    "title_ru": "Молчаливая ведьма: Тайна молчаливой колдуньи",
+    "score": 8,
+    "status": "completed",
+    "eps": 13
+  },
+  {
+    "title": "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
+    "title_ru": "Соседнему королевству продали святую, помолвку которой разорвали из-за того, что она стала слишком совершенной",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Grand Blue Season 2",
+    "title_ru": "Необъятный океан 2",
+    "score": 9,
+    "status": "watching",
+    "eps": 7
+  },
+  {
+    "title": "Tu Bian Yingxiong X",
+    "title_ru": "Быть героем Икс",
+    "score": 9,
+    "status": "watching",
+    "eps": 12
+  },
+  {
+    "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+    "title_ru": "Клеватесс: Король демонических зверей, младенец и герой-нежить",
+    "score": 9,
+    "status": "watching",
+    "eps": 8
+  },
+  {
+    "title": "Panty & Stocking with Garterbelt",
+    "title_ru": "Труська, Чулко и пресвятой Подвяз",
+    "score": 9,
+    "status": "watching",
+    "eps": 6
+  },
+  {
+    "title": "Guimi Zhi Zhu: Xiaochou Pian",
+    "title_ru": "Повелитель тайн: Клоун",
+    "score": 8,
+    "status": "watching",
+    "eps": 6
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+    "title_ru": "Эта фарфоровая кукла влюбилась 2",
+    "score": 9,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Ame to Kimi to",
+    "title_ru": "Дождь и ты",
+    "score": 7,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Ruri no Houseki",
+    "title_ru": "Драгоценности Рури",
+    "score": 8,
+    "status": "watching",
+    "eps": 3
+  },
+  {
+    "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+    "title_ru": "Апокалипсис Миногры: Покорение другого мира начинается с разрушенной цивилизации",
+    "score": 6,
+    "status": "watching",
+    "eps": 4
+  },
+  {
+    "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+    "title_ru": "У меня нет любовницы! (А может и есть?!)",
+    "score": 9,
+    "status": "watching",
+    "eps": 4
+  },
+  {
+    "title": "Gachiakuta",
+    "title_ru": "Гатиакута",
+    "score": 8,
+    "status": "watching",
+    "eps": 6
+  },
+  {
+    "title": "Yofukashi no Uta Season 2",
+    "title_ru": "Песнь ночных сов 2",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  },
+  {
+    "title": "Let's Play: Quest-darake no My Life",
+    "title_ru": "Сыграем: Моя жизнь, полная квестов",
+    "score": 9,
+    "status": "watching",
+    "eps": 3
+  },
+  {
+    "title": "Sanda",
+    "title_ru": "Санда",
+    "score": 9,
+    "status": "watching",
+    "eps": 2
+  },
+  {
+    "title": "Yasei no Last Boss ga Arawareta!",
+    "title_ru": "Шальной последний босс явился!",
+    "score": 9,
+    "status": "watching",
+    "eps": 4
+  },
+  {
+    "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+    "title_ru": "Мой статус убийцы очевидно превосходит геройский",
+    "score": 8,
+    "status": "watching",
+    "eps": 2
+  },
+  {
+    "title": "Blood-C",
+    "title_ru": "Кровь-C",
+    "score": 0,
+    "status": "watching",
+    "eps": 0
+  },
+  {
+    "title": "Kekkai Sensen",
+    "title_ru": "Фронт кровавой блокады",
+    "score": 10,
+    "status": "completed",
+    "eps": 12
+  }
+]
